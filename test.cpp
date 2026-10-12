@@ -7,3 +7,5 @@ int foo() {
 void foo2() {
     return;
 }
+
+#define EMC
