@@ -9,3 +9,4 @@ void foo2() {
 }
 
 #define EMC
+#define EMS
